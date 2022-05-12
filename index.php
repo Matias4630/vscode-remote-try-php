@@ -16,6 +16,7 @@ function sayHello($name) {
 		<title>Visual Studio Code Remote :: PHP</title>
 	</head>
 	<body>
+		<h1>teste com php</h1>
 		<?php 
 		
 		sayHello('remote world');
